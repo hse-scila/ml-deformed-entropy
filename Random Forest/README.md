@@ -2,6 +2,6 @@
 
 Файл `Titanic_dataset.csv` содержит набор данных, используемых для обучения и тестирования модели.
 
-Файл `Tree Renyi_cross_validation_Titanic.ipynb` содержит код на python в формате Jupyter notebook, позволяющий проводить 10-fold кросс-валидацию новой модели.
+Файл `Tree Renyi_cross_validation_Titanic.ipynb` содержит код на Python в формате Jupyter notebook, позволяющий проводить 10-fold кросс-валидацию новой модели.
 
-Файл `Cross_validation_results_Titanic.csv` содержит результаты расчетов - зависимость метрик accuracy и f1 score от параметра деформации энтропии Реньи.
+Файл `Cross_validation_results_Titanic.csv` содержит результаты расчетов — зависимость метрик `accuracy` и `f1 score` от параметра деформации энтропии Реньи.
